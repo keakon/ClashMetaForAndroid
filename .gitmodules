@@ -1,4 +1,4 @@
 [submodule "clash-foss"]
 	path = core/src/foss/golang/clash
 	url = https://github.com/keakon/mihomo
-	branch = port-hopping2
+	branch = port-hopping3
